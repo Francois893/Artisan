@@ -1,2 +1,0 @@
-# Artisan
-Test app artisan
